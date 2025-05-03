@@ -1,15 +1,12 @@
 # bash_ios_editor_plugin
 
-A new Flutter plugin project.
+A Flutter plugin that integrates the powerful iOS photo and video  editor [HXPHPicker](https://github.com/SilenceLove/HXPHPicker), enabling native media editing capabilities within your Flutter apps.
 
-## Getting Started
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/to/develop-plugins),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
 
+- 🎞️ Video and image editing tools
+- 🖼️ Crop, rotate, filter, draw, mosaic & more
+- 🌐 Localization support
+- 📦 Easy integration with Flutter
