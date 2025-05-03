@@ -28,3 +28,8 @@ If you’re interested in contributing:
 4- Submit a pull request 🙌
 
 Feel free to open issues or suggestions as well — collaboration is encouraged!
+
+
+🙏 Special Thanks
+This plugin wraps the excellent native iOS library HXPHPicker by @SilenceLove.
+Thank you for the incredible work on this powerful media picker and editor!
