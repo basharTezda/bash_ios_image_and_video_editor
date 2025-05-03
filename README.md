@@ -10,3 +10,21 @@ A Flutter plugin that integrates the powerful iOS photo and video  editor [HXPHP
 - 🖼️ Crop, rotate, filter, draw, mosaic & more
 - 🌐 Localization support
 - 📦 Easy integration with Flutter
+
+
+## 🔧 Contributing
+
+Contributions are warmly welcome!
+Whether it’s fixing bugs, improving documentation, or adding new features — I’d love to have your help.
+
+If you’re interested in contributing:
+
+1- Fork the repository
+
+2- Create a new branch
+
+3- Make your changes
+
+4- Submit a pull request 🙌
+
+Feel free to open issues or suggestions as well — collaboration is encouraged!
