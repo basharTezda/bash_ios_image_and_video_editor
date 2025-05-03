@@ -1,0 +1,86 @@
+PODS:
+  - bash_ios_editor_plugin (0.0.1):
+    - Flutter
+    - HXPHPicker
+  - Flutter (1.0.0)
+  - HXPHPicker (2.0.0):
+    - HXPHPicker/Full (= 2.0.0)
+  - HXPHPicker/Camera (2.0.0):
+    - HXPHPicker/Camera/Lite (= 2.0.0)
+    - HXPHPicker/Camera/Location (= 2.0.0)
+  - HXPHPicker/Camera/Lite (2.0.0):
+    - HXPHPicker/Core
+  - HXPHPicker/Camera/Location (2.0.0):
+    - HXPHPicker/Camera/Lite
+  - HXPHPicker/Core (2.0.0)
+  - HXPHPicker/Editor (2.0.0):
+    - HXPHPicker/Editor/KF (= 2.0.0)
+    - HXPHPicker/Editor/Lite (= 2.0.0)
+  - HXPHPicker/Editor/KF (2.0.0):
+    - HXPHPicker/Editor/Lite
+    - HXPHPicker/EditorView/KF
+    - Kingfisher (~> 7.0)
+  - HXPHPicker/Editor/Lite (2.0.0):
+    - HXPHPicker/EditorView/Lite
+  - HXPHPicker/EditorView/KF (2.0.0):
+    - HXPHPicker/EditorView/Lite
+    - Kingfisher (~> 7.0)
+  - HXPHPicker/EditorView/Lite (2.0.0):
+    - HXPHPicker/Core
+  - HXPHPicker/Full (2.0.0):
+    - HXPHPicker/Camera
+    - HXPHPicker/Editor
+    - HXPHPicker/Picker
+  - HXPHPicker/Picker (2.0.0):
+    - HXPHPicker/Picker/KF (= 2.0.0)
+    - HXPHPicker/Picker/Lite (= 2.0.0)
+  - HXPHPicker/Picker/KF (2.0.0):
+    - HXPHPicker/Picker/Lite
+    - Kingfisher (~> 7.0)
+  - HXPHPicker/Picker/Lite (2.0.0):
+    - HXPHPicker/Core
+  - image_picker_ios (0.0.1):
+    - Flutter
+  - integration_test (0.0.1):
+    - Flutter
+  - Kingfisher (7.12.0)
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - bash_ios_editor_plugin (from `.symlinks/plugins/bash_ios_editor_plugin/ios`)
+  - Flutter (from `Flutter`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - video_player_avfoundation (from `.symlinks/plugins/video_player_avfoundation/darwin`)
+
+SPEC REPOS:
+  trunk:
+    - HXPHPicker
+    - Kingfisher
+
+EXTERNAL SOURCES:
+  bash_ios_editor_plugin:
+    :path: ".symlinks/plugins/bash_ios_editor_plugin/ios"
+  Flutter:
+    :path: Flutter
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  video_player_avfoundation:
+    :path: ".symlinks/plugins/video_player_avfoundation/darwin"
+
+SPEC CHECKSUMS:
+  bash_ios_editor_plugin: aa3b42366ce89daaa1bb06c7a1ee2cbc62761877
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  HXPHPicker: 4fdbc2c27e0ca43a8f2c0060e128dfead5255594
+  image_picker_ios: 7fe1ff8e34c1790d6fff70a32484959f563a928a
+  integration_test: 4a889634ef21a45d28d50d622cf412dc6d9f586e
+  Kingfisher: 53a10ea35051a436b5fb626ca2dd8f3144d755e9
+  video_player_avfoundation: 2cef49524dd1f16c5300b9cd6efd9611ce03639b
+
+PODFILE CHECKSUM: a39f5b37969c91b0e0117cbf8c4772044f889ab5
+
+COCOAPODS: 1.16.2
